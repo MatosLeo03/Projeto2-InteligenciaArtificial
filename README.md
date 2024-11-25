@@ -18,7 +18,7 @@ Budapest_Sem_Ajuste.csv: O dataset original, sem modificações.
 Seattle.csv: Dataset ajustado.
 Budapest: Dataset ajustado.
 
-Certifique-se de que ambos os arquivos CSV estejam disponíveis no mesmo diretório que o notebook ou faça o upload para o ambiente de execução (por exemplo, Google Colab).
+Certifique-se de que todos os arquivos CSV estejam disponíveis no mesmo diretório que o notebook ou faça o upload para o ambiente de execução (por exemplo, Google Colab).
 
 ### Executar o Notebook:
 
