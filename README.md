@@ -7,7 +7,7 @@ Victor Junqueira Colombaro, RA: 10395711
 ## Instruções para Abertura do Notebook
 ### Abrir o Notebook:
 
-Abra o notebook PROJETO-Weather_Regression.ipynb em um ambiente como Jupyter Notebook ou Google Colab.
+Abra o notebook Projeto_Clima_Temperatura-InteligenciaArtificial - v2.ipynb em um ambiente como Anaconda ou Google Colab.
 ### Inserir os Datasets:
 
 Existem quatro datasets utilizados no projeto:
