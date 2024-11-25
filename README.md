@@ -13,9 +13,11 @@ Abra o notebook Projeto_Clima_Temperatura-InteligenciaArtificial - v2.ipynb em u
 Existem quatro datasets utilizados no projeto:
 
 Seattle_Sem_Ajuste.csv: O dataset original, sem modificações.
+
 Budapest_Sem_Ajuste.csv: O dataset original, sem modificações.
 
 Seattle.csv: Dataset ajustado.
+
 Budapest: Dataset ajustado.
 
 Certifique-se de que todos os arquivos CSV estejam disponíveis no mesmo diretório que o notebook ou faça o upload para o ambiente de execução (por exemplo, Google Colab).
