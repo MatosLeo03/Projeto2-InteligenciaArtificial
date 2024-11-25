@@ -1,4 +1,4 @@
-# Previsão da Temperatura Máxima Usando Regressão Linear
+# Previsão da Temperatura Máxima Usando Regressão
 ## Integrantes do Grupo:
 Leonardo Henrique de Oliveira Matos , RA: 10389516
 
